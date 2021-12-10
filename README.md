@@ -69,3 +69,10 @@ HyperModularity.com
 > The provider API itself is very simple, and wraps [Ethereum JSON-RPC](https://eth.wiki/json-rpc/API#json-rpc-methods) [(opens new window)](https://eth.wiki/json-rpc/API#json-rpc-methods) formatted messages, which is why developers usually use a convenience library for interacting with the provider, like [ethers](https://www.npmjs.com/package/ethers) [(opens new window)](https://www.npmjs.com/package/ethers), [web3.js](https://www.npmjs.com/package/web3) [(opens new window)](https://www.npmjs.com/package/web3), [truffle](https://www.trufflesuite.com/) [(opens new window)](https://www.trufflesuite.com/), [Embark](https://framework.embarklabs.io/) [(opens new window)](https://framework.embarklabs.io/), or others. From those tools, you can generally find sufficient documentation to interact with the provider, without reading this lower-level API.
 
 
+[web3.js - Ethereum JavaScript API — web3.js 1.0.0 documentation](https://web3js.readthedocs.io/en/v1.5.2/)
+
+
+web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+
+The following documentation will guide you through installing and running web3.js as well as providing an API reference documentation with examples.
+
