@@ -2,6 +2,16 @@
 
 The financial ecosystem of growth
 
+[Web3 WP NFT Experiment and Minting Apps Available On GitHub](https://web3wp.com/blog/nft-and-minting-apps-on-github/)
+
+When you visit our GitHub repo you will find all the components needed to set up your project. The apps include:
+
+- [The Smart Contract](https://github.com/uglyrobot/web3wp-wapuus-nft) – Solidity
+- [The Frontend Website App](https://github.com/uglyrobot/web3wp-wapuus-nft) – Nextjs/React
+- [The Metadata API](https://github.com/uglyrobot/web3wp-wapuus-nft) – Nodejs
+- [The Image/Trait Generator](https://github.com/uglyrobot/web3wp-wapuus-nft) – Python
+
+In this post, we will provide an overview of each of the apps. We hope they provide a foundation for new users looking to create their own NFT projects.
 
 
 [How does NFT Work (Easy Explanation w/ No Jargons!)](https://mytnft.com/learn/how-does-nft-work/)
@@ -66,7 +76,7 @@ HyperModularity.com
 
 [Getting Started | MetaMask Docs](https://docs.metamask.io/guide/getting-started.html#basic-considerations)
 
-> The provider API itself is very simple, and wraps [Ethereum JSON-RPC](https://eth.wiki/json-rpc/API#json-rpc-methods) [(opens new window)](https://eth.wiki/json-rpc/API#json-rpc-methods) formatted messages, which is why developers usually use a convenience library for interacting with the provider, like [ethers](https://www.npmjs.com/package/ethers) [(opens new window)](https://www.npmjs.com/package/ethers), [web3.js](https://www.npmjs.com/package/web3) [(opens new window)](https://www.npmjs.com/package/web3), [truffle](https://www.trufflesuite.com/) [(opens new window)](https://www.trufflesuite.com/), [Embark](https://framework.embarklabs.io/) [(opens new window)](https://framework.embarklabs.io/), or others. From those tools, you can generally find sufficient documentation to interact with the provider, without reading this lower-level API.
+The provider API itself is very simple, and wraps [Ethereum JSON-RPC](https://eth.wiki/json-rpc/API#json-rpc-methods) [(opens new window)](https://eth.wiki/json-rpc/API#json-rpc-methods) formatted messages, which is why developers usually use a convenience library for interacting with the provider, like [ethers](https://www.npmjs.com/package/ethers) [(opens new window)](https://www.npmjs.com/package/ethers), [web3.js](https://www.npmjs.com/package/web3) [(opens new window)](https://www.npmjs.com/package/web3), [truffle](https://www.trufflesuite.com/) [(opens new window)](https://www.trufflesuite.com/), [Embark](https://framework.embarklabs.io/) [(opens new window)](https://framework.embarklabs.io/), or others. From those tools, you can generally find sufficient documentation to interact with the provider, without reading this lower-level API.
 
 
 ## Opensource code
